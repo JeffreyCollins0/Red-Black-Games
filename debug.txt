@@ -1,0 +1,7 @@
+Jet Force Gemini,1999,Shooter,N64
+Gundam Wing: Endless Duel,1997,Fighting,SNES
+Superman 64,1999,Action,N64
+Megaman Zero 4,2004,Platform,GBA
+Rockman EXE: Operate Shooting Star,2006,Action-RPG,DS
+Super Mario Bros.,1989,Platform,NES
+The Legend of Zelda: Breath of the Wild,2017,Adventure,Switch
